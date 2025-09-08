@@ -19,3 +19,17 @@ Port: 1883
 
 
 flow 1.js -- > persent..
+
+
+## mini_project_ : Joy_Stick ROS
+
+sudo apt install joystick jstest-gtk evtest
+
+evtest
+
+test for controller usb_joy
+
+
+jstest-gtk 
+
+test for GUI_Joy
