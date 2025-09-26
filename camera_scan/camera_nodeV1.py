@@ -55,7 +55,7 @@ client.loop_start()  # Start loop in background
 # -----------------------------
 # Video Capture
 # -----------------------------
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(2)
 if not cap.isOpened():
     print("Cannot open camera")
     exit()
