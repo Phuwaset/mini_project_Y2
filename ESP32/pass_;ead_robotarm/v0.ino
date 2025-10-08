@@ -138,6 +138,7 @@ bool pose_home_robotArm() {
 
   Serial.println("🤖 Robot Arm Home Pose: (95,60,90,150)");
   return true;   // ✅ คืนค่า true เสมอ
+
 }
 
 // Robot ARM Pose

@@ -719,4 +719,8 @@ void QRScan() {
   prevCHA = curCHA;
   prevCBI = curCBI;
   prevLPG = curLPG;
+  
+
+
+  
 }
